@@ -15,8 +15,5 @@ Estudante de Front End em busca de oportunidades.
 ---
 [![](https://visitcount.itsvg.in/api?id=Emerson-Correa&icon=5&color=8)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/Emerson-Correa/Emerson-Correa/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
