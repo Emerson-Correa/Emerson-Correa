@@ -12,7 +12,7 @@ Estudante de Front End em busca de oportunidades.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emerson-Correa&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Correa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Emerson-Correa/Emerson-Correa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Emerson-Correa&icon=5&color=8)](https://visitcount.itsvg.in)
