@@ -13,6 +13,7 @@ Interesses: Testes de Software, IA, Desenvolvimento.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Emerson-Correa&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Correa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/Emerson-Correa/Emerson-Correa/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
