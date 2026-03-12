@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudante de Front End em busca de oportunidades.
+Estudante de Tecnologia em busca de oportunidades.
+Interesses: Testes de Software, IA, Desenvolvimento.
 
 
 ## 🌐 Socials:
